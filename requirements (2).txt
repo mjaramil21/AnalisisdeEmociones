@@ -1,5 +1,5 @@
 streamlit
-textblob==0.17.1
+textblob
 gTTS==2.2.2
 googletrans==4.0.0rc1
 streamlit-lottie
